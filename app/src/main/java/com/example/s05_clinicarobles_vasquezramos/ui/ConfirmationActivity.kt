@@ -112,8 +112,7 @@ class ConfirmationActivity : AppCompatActivity() {
         )
 
         val builder = NotificationCompat.Builder(this, CHANNEL_ID)
-            //.setSmallIcon(R.drawable.ic_notification) // Asegúrate de tener este ícono
-            .setSmallIcon(android.R.drawable.ic_dialog_info) // Icono por defecto para evitar error
+            .setSmallIcon(R.drawable.baseline_calendar_month_24)
             .setContentTitle("Cita Reservada")
             .setContentText("Tu cita ha sido reservada con éxito.")
             .setPriority(NotificationCompat.PRIORITY_DEFAULT)

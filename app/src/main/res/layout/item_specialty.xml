@@ -16,8 +16,8 @@
         <!-- Imagen del médico -->
         <ImageView
             android:id="@+id/doctorImage"
-            android:layout_width="125dp"
-            android:layout_height="125dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
             android:scaleType="centerCrop"
             android:contentDescription="Foto del médico" />
 

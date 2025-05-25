@@ -30,7 +30,30 @@ class SpecialtyListActivity : AppCompatActivity() {
 
         // Crear lista de especialidades
         val specialties = listOf(
-            Specialty(1, "Especialidad", "Nombre", "Horario", R.drawable.imagen1),
+            Specialty(1, "TRAUMATOLOGÍA", "Dr. Alberto García Cerna", "Lun-Mie-Vie 9:00–13:00", R.drawable.imagen1),
+            Specialty(2, "CARDIOLOGÍA", "Dr. Roberto Chavesta Bernal", "Mar-Jue 8:00–12:00", R.drawable.imagen2),
+            Specialty(3, "CIRUGÍA CARDIOVASCULAR", "Dr. Romel Zamudio Silva", "Lun-Mie 14:00–18:00", R.drawable.imagen3),
+            Specialty(4, "CIRUGÍA GENERAL", "Dr. Beto Miranda Sevillano", "Mar-Jue 9:00–13:00", R.drawable.imagen4),
+            Specialty(5, "DERMATOLOGÍA", "Dr. Jaime Vega Chávez", "Lun-Mie 10:00–14:00", R.drawable.imagen5),
+            Specialty(6, "ENDOCRINOLOGÍA", "Dr. Juan Pinto Sánchez", "Mar-Vie 8:00–12:00", R.drawable.imagen6),
+            Specialty(7, "GASTROENTEROLOGÍA", "Dra. Kelly Casanova Lau", "Lun-Mie-Vie 14:00–18:00", R.drawable.imagen7),
+            Specialty(8, "GINECOLOGÍA", "Dr. José Luis Espinoza Decena", "Lun-Mie 8:00–12:00", R.drawable.imagen8),
+            Specialty(9, "MEDICINA FÍSICA", "Dr. Luis Vásquez", "Mar-Jue 10:00–14:00", R.drawable.imagen9),
+            Specialty(10, "MEDICINA GENERAL", "Dr. Elwis Laveriano Hoyos", "Lun-Vie 8:00–12:00", R.drawable.imagen10),
+            Specialty(11, "MEDICINA INTERNA", "Dr. Luis Cabrera Cipirán", "Mar-Jue 14:00–18:00", R.drawable.imagen11),
+            Specialty(12, "NEUMOLOGÍA", "Dra. Yessica Montoya Caldas", "Lun-Mie 9:00–13:00", R.drawable.imagen12),
+            Specialty(13, "NEUROCIRUGÍA", "Dr. Willy Caballero Grados", "Mar-Vie 8:00–12:00", R.drawable.imagen13),
+            Specialty(14, "NEUROLOGÍA", "Dr. Rosnel Valdivieso Velarde", "Lun-Mie 14:00–18:00", R.drawable.imagen14),
+            Specialty(15, "NUTRICIÓN", "Lic. Carmela Carbajal", "Mar-Jue 10:00–14:00", R.drawable.imagen15),
+            Specialty(16, "ODONTOLOGÍA", "Dr. Pedro Cipriano Alegre", "Lun-Mie 8:00–12:00", R.drawable.imagen16),
+            Specialty(17, "CIRUGÍA MAXILOFACIAL", "Dr. Julio Robles Zanelli", "Mar-Jue 14:00–18:00", R.drawable.imagen17),
+            Specialty(18, "OTORRINO", "Dr. Jorge Bonilla Vargas", "Lun-Vie 9:00–13:00", R.drawable.imagen18),
+            Specialty(19, "OFTALMOLOGÍA", "Dra. Anita Vigo Arroyo", "Mar-Jue 8:00–12:00", R.drawable.imagen19),
+            Specialty(20, "PEDIATRÍA", "Dr. Marcos Vásquez Tantas", "Lun-Mie-Vie 8:00–12:00", R.drawable.imagen20),
+            Specialty(21, "PSICOLOGÍA", "Lic. Astrid Manrique Marrón", "Mar-Jue 14:00–18:00", R.drawable.imagen21),
+            Specialty(22, "PSIQUIATRÍA", "Dra. Celmira Lázaro Loyola", "Lun-Mie 10:00–14:00", R.drawable.imagen22),
+            Specialty(23, "REUMATOLOGÍA", "Dr. Frank Ocaña Vásquez", "Mar-Jue 9:00–13:00", R.drawable.imagen23),
+            Specialty(24, "UROLOGÍA", "Dr. Carlos Morales Flores", "Lun-Mie-Vie 14:00–18:00", R.drawable.imagen24),
         )
 
         val adapter = SpecialtyAdapter(specialties) { specialty ->
