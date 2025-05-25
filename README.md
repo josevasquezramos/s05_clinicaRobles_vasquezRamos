@@ -7,6 +7,8 @@
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-11-%23ED8B00?logo=openjdk&logoColor=white" alt="Java 11"></a>
   <a href="https://developer.android.com/topic/libraries/view-binding"><img src="https://img.shields.io/badge/ViewBinding-✓-orange" alt="ViewBinding"></a>
   <a href="https://developer.android.com/jetpack"><img src="https://img.shields.io/badge/Jetpack-✓-%234285F4" alt="Jetpack"></a>
+</p>
+<p align="center">
   <a href="https://m3.material.io/"><img src="https://img.shields.io/badge/Material-1.12.0-blue?logo=android&logoColor=white" alt="Material Design"></a>
   <a href="https://developer.android.com/guide/topics/ui/layout/recyclerview"><img src="https://img.shields.io/badge/RecyclerView-1.4.0-lightgrey?logo=android" alt="RecyclerView"></a>
 </p>
@@ -23,12 +25,6 @@ Aplicación móvil desarrollada como parte del curso de **Aplicaciones Móviles*
 - Detalles individuales de cada médico al seleccionarlo.
 - Notificación local al seleccionar una especialidad/médico.
 - Todos los datos se cargan desde un array estático utilizando `RecyclerView`.
-
-### 🛠️ Tecnologías y Librerías
-
-  - `com.google.android.material:material`
-  - `androidx.recyclerview:recyclerview`
-  - `androidx.cardview:cardview`
 
 ___
 
