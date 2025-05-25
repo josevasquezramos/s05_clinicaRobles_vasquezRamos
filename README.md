@@ -9,8 +9,8 @@
   <a href="https://developer.android.com/jetpack"><img src="https://img.shields.io/badge/Jetpack-✓-%234285F4" alt="Jetpack"></a>
 </p>
 <p align="center">
-  <a href="https://m3.material.io/"><img src="https://img.shields.io/badge/Material-1.12.0-blue?logo=android&logoColor=white" alt="Material Design"></a>
-  <a href="https://developer.android.com/guide/topics/ui/layout/recyclerview"><img src="https://img.shields.io/badge/RecyclerView-1.4.0-lightgrey?logo=android" alt="RecyclerView"></a>
+  <a href="https://m3.material.io/"><img src="https://img.shields.io/badge/Material-✓-blue?logo=android&logoColor=white" alt="Material Design"></a>
+  <a href="https://developer.android.com/guide/topics/ui/layout/recyclerview"><img src="https://img.shields.io/badge/RecyclerView-✓-lightgrey?logo=android" alt="RecyclerView"></a>
 </p>
 
 ## 🏥 Clínica Robles
