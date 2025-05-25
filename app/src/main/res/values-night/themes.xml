@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.S05_clinicaRobles_vasquezRamos" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/robles</item>
+        <item name="colorPrimaryVariant">@color/robles</item>
+        <item name="android:statusBarColor">@color/robles</item>
+    </style>
+</resources>

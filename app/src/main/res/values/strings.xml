@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clínica Robles</string>
+    <string name="welcome_to_clinic">Bienvenido a</string>
+    <string name="clinic_name">Clínica Robles</string>
+    <string name="desc">Nuestro equipo está conformado por profesionales altamente calificados y comprometidos con tu bienestar</string>
+    <string name="reserve_appointment">Reservar Cita</string>
+    <string name="specialty_image">Imagen de especialidad</string>
+    <string name="clinic_logo">Logo de la clínica</string>
+    <string name="reserve">Reservar</string>
+    <string name="success">Éxito</string>
+    <string name="appointment_reserved">¡Tu cita fue reservada!</string>
+    <string name="confirmation_message">Hemos reservado tu cita médica. Recibirás un correo de confirmación con los detalles.</string>
+    <string name="finish">Finalizar</string>
+</resources>
