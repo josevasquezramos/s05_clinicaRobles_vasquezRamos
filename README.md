@@ -26,6 +26,8 @@ Aplicación móvil desarrollada como parte del curso de **Aplicaciones Móviles*
 - Notificación local al seleccionar una especialidad/médico.
 - Todos los datos se cargan desde un array estático utilizando `RecyclerView`.
 
+https://github.com/user-attachments/assets/f347dd2b-fdcb-44d0-8f32-729be4659ef6
+
 ___
 
 **Alumno:** Jose Manuel Vasquez Ramos  
